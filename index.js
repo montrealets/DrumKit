@@ -45,9 +45,9 @@ function makeMusic(button){
           kick.play();
           break;
                   
-        case "p":
+        case "lol":
           var lol = new Audio('sounds/Lol.mp3');
-          kick.play();
+          Lol.play();
           break;
       }
 }
