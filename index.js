@@ -46,7 +46,7 @@ function makeMusic(button){
           break;
                   
         case "p":
-          var kick = new Audio('sounds/kick-bass.mp3');
+          var lol = new Audio('sounds/Lol.mp3');
           kick.play();
           break;
       }
