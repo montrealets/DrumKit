@@ -44,6 +44,11 @@ function makeMusic(button){
           var kick = new Audio('sounds/kick-bass.mp3');
           kick.play();
           break;
+                  
+        case "p":
+          var kick = new Audio('sounds/kick-bass.mp3');
+          kick.play();
+          break;
       }
 }
 function buttonAnimation(currentKey){
