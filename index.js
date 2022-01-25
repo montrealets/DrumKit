@@ -47,7 +47,7 @@ function makeMusic(button){
                   
         case "lol":
           var lol = new Audio('sounds/Lol.mp3');
-          Lol.play();
+          lol.play();
           break;
       }
 }
